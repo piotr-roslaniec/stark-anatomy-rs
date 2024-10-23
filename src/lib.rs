@@ -1,3 +1,2 @@
-#![feature(destructuring_assignment)]
-
 pub mod field;
+pub mod polynomial;
